@@ -1,2 +1,2 @@
-# Another-World-of-Fantasy
-A Minecraft datapack which redesigns every vanilla structures!
+# Another World of Fantasy
+`Minecraft` | `1.18`
