@@ -1,2 +1,5 @@
+### <p align=right>`Datapack`&emsp;`1.19.3`&emsp;[`→` Modrinth(nothing yet)]()</p>
+
 # Another World of Fantasy
-`Minecraft` | `1.19.3`
+
+**Another World of Fantasy `(AWoF)`** aims to redisign and restructure the vanilla.
