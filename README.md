@@ -2,4 +2,4 @@
 
 # Another World of Fantasy
 
-**Another World of Fantasy `(AWoF)`** aims to redisign and restructure the vanilla.
+**Another World of Fantasy(AWoF)** aims to redisign and restructure the vanilla.
