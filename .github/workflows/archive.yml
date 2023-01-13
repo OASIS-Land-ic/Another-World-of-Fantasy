@@ -13,3 +13,5 @@ jobs:
           data
           pack.mcmeta
           LICENSE
+          !./**/*.md
+
