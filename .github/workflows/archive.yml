@@ -9,5 +9,5 @@ jobs:
       uses: thedoctor0/zip-release@0.7.0
       with:
         type: 'zip'
-        filename: 'Another World of Fantasy.zip'
+        filename: 'release.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
