@@ -1,0 +1,13 @@
+name: archive
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Archive Release
+      uses: thedoctor0/zip-release@0.7.0
+      with:
+        type: 'zip'
+        filename: 'release/Another World of Fantasy.zip'
+        exclusions: '*.git* /*node_modules/* .editorconfig'
