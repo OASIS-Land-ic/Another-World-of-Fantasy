@@ -10,5 +10,6 @@ jobs:
       with:
         name: 'Another World of Fantasy'
         path: |
-          .
-          !*.md
+          data
+          pack.mcmeta
+          LICENSE
