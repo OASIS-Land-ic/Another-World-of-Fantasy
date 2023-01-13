@@ -1,2 +1,2 @@
 # Another World of Fantasy
-`Minecraft` | `1.18`
+`Minecraft` | `1.19.3`
