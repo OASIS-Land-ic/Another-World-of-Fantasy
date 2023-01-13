@@ -1,0 +1,16 @@
+name: Archive Datapack
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Archive
+      uses: thedoctor0/zip-release@0.7.0
+      with:
+        type: 'zip'
+        filename: 'Another World of Fantasy.zip'
+    - name: Archive production artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: 'Another World of Fantasy'
