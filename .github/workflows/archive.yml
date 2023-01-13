@@ -1,17 +1,14 @@
-name: Archive Datapack
+name: Archive
 on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Archive
-      uses: thedoctor0/zip-release@0.7.0
-      with:
-        type: 'zip'
-        filename: 'Another World of Fantasy.zip'
-    - name: Archive production artifacts
+    - name: Archive datapack
       uses: actions/upload-artifact@v3
       with:
         name: 'Another World of Fantasy'
-        path: .
+        path: |
+          .
+          !*.md
