@@ -1,4 +1,4 @@
-# Redesign Progress
+# Restructure Progress
 
 - [ ] ancient_city
 - [ ] bastion
@@ -11,4 +11,11 @@
 - [ ] shipwreck
 - [ ] underwater_ruin
 - [ ] village
+  - [X] common
+  - [X] decays
+  - [ ] desert
+  - [ ] plains
+  - [ ] savanna
+  - [ ] snowy
+  - [ ] taiga
 - [ ] woodland_mansion
