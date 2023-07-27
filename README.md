@@ -1,5 +1,5 @@
-### <p align=right>`Datapack`&emsp;`1.19.3`&emsp;[`→` Modrinth(nothing yet)]()</p>
+### <p align=right>`Datapack` `1.20.1`&emsp;[`→` Modrinth(nothing yet)]()</p>
 
 # Another World of Fantasy
 
-**Another World of Fantasy(AWoF)** aims to redisign and restructure the vanilla.
+**Another World of Fantasy(AWoF)** aims to redisign and restructure all the vanilla structures.
