@@ -2195,21 +2195,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2023-07-27 19:12:03 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
       "has_creeper_head": "2023-07-27 18:38:31 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2023-07-27 19:12:03 +0800"
     },
     "done": true
   },
@@ -2219,27 +2207,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
+  "minecraft:recipes/decorations/lime_candle": {
     "criteria": {
-      "has_sea_pickle": "2023-07-27 19:12:01 +0800"
+      "has_lime_dye": "2023-07-27 18:39:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-07-27 18:39:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-07-27 18:39:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2023-07-27 18:42:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2023-07-27 18:42:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-07-27 18:42:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-07-27 18:42:32 +0800"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dye_light_blue_wool": {
     "criteria": {
       "has_needed_dye": "2023-07-27 18:42:38 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2023-07-27 19:12:03 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2023-07-27 18:55:30 +0800"
     },
     "done": true
   },
@@ -2255,21 +2267,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/bamboo_mosaic": {
+  "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
-      "has_bamboo_slab": "2023-07-27 19:18:22 +0800"
+      "has_light_blue_dye": "2023-07-27 18:42:38 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_candle": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_lime_dye": "2023-07-27 18:39:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2023-07-27 19:14:45 +0800"
+      "has_cod": "2023-07-27 18:55:30 +0800"
     },
     "done": true
   },
@@ -2279,45 +2285,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2023-07-27 18:42:32 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_lime_bed": {
-    "criteria": {
-      "has_needed_dye": "2023-07-27 18:39:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2023-07-27 18:42:20 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2023-07-27 18:55:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_lime_carpet": {
-    "criteria": {
-      "has_needed_dye": "2023-07-27 18:39:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2023-07-27 18:42:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2023-07-27 18:42:32 +0800"
     },
     "done": true
   },
@@ -2327,11 +2297,41 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_candle": {
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
-      "has_light_blue_dye": "2023-07-27 18:42:38 +0800"
+      "has_sea_pickle": "2023-07-27 19:12:01 +0800"
     },
     "done": true
   },
-  "DataVersion": 3465
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2023-07-27 19:12:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2023-07-27 19:12:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2023-07-27 19:12:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-07-27 19:14:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2023-07-27 19:18:22 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
 }
